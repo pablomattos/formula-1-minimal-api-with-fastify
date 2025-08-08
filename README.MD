@@ -18,13 +18,13 @@ API REST que fornece informações sobre **equipes** e **pilotos** de Fórmula 1
 #### Passos:
 
 - Copie a URL do repositório (HTTPS ou SSH):  
-  `https://github.com/seuusuario/formula-one.git`  
+  `https://github.com/pablomattos/formula-1-minimal-api-with-fastify.git`  
 - Abra o Terminal ou Git Bash no seu computador  
 - Altere o diretório de trabalho atual para o local onde deseja clonar o repositório  
 - Digite o comando abaixo:
 
 ```bash
-git clone https://github.com/seuusuario/formula-one.git
+git clone https://github.com/pablomattos/formula-1-minimal-api-with-fastify.git
 ```
 
 #### Na IDE:
